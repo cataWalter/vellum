@@ -30,7 +30,7 @@ Vellum is designed for high-performance reading on low-spec hardware (e.g. Intel
 Vellum is written in Rust (edition 2021). Build from source with Cargo:
 
 ```sh
-git clone <repo-url> vellum
+git clone https://github.com/cataWalter/vellum.git
 cd vellum
 cargo build --release
 ```
